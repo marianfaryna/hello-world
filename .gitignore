@@ -1,0 +1,12 @@
+target/*
+*/target/*
+*/*.iml
+*.ipr
+*.iml
+*.ids
+*.iws
+MANIFEST.MF
+
+env/log/*
+.idea/*
+
